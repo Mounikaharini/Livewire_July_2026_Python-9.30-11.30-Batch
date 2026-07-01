@@ -1,0 +1,13 @@
+print(10)
+print("hi")
+hi = 10
+print(hi)
+print("hi")
+
+print("hi",end="\n")
+print("hihi \\\thi")
+
+print("hi",end=" ")
+print("bye")
+
+help("keywords")
